@@ -2,4 +2,4 @@
 
 
 ### Angular
--- [Audio library] https://howlerjs.com
+-- [Audio library] [https://howlerjs.com](https://howlerjs.com)
